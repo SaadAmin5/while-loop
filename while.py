@@ -13,7 +13,8 @@ while True:
     elif number!=-1:
         sum=sum+number
         count=count+1
-        average=sum/count       
+        average=sum/count 
+        
     else:
         pass
     
